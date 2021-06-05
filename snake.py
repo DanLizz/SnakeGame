@@ -57,4 +57,3 @@ class Snake:
         self.snake.clear()
         self.create_snake()
         self.head = self.snake[0]
-
